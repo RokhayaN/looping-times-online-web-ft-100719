@@ -1,7 +1,6 @@
-magic = "Wingardium Leviosa"
-def using_times(magic)
+using_times = "Wingardium Leviosa"
   7.times do 
-    puts magic
+    puts using_times
 end
 
 
